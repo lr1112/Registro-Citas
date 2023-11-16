@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Registro_Citas.Client.props" />
+</Project>
